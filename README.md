@@ -16,5 +16,4 @@ to two biomedical datasets.
 ## Tools
 Python, scikit-learn, statsmodels, pandas, numpy, matplotlib, seaborn
 
-## Author
-Nada Saci — Master CMB, Aix-Marseille Université
+
